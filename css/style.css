@@ -1721,3 +1721,32 @@ textarea{
   width: 100%;
   font-family: 'Quicksand', sans-serif;
 }
+
+.statistic{
+  font-size: 1.5rem;
+}
+
+.container_report {
+  padding: 10px 68px;
+  position: relative;
+  width: 80%;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.statistics-section {
+  display: flex;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.statistic {
+  width: 48%;
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 10px;
+  height: 100px;
+  border-radius: 5px;
+}
