@@ -1451,7 +1451,8 @@ h5{
   }
 
   .all_items .milk_items__item{
-    margin-top: 20px;
+    margin-top: 48px;
+    margin-bottom: -48px;
   }
 
 
